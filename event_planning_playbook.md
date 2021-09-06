@@ -25,6 +25,7 @@ An ideal, smooth event should probably meet these goals:
 * Have a back-of-the-envelope budget estimate, for example:
     * `We expect ~100 people with an avg of $10 per ticket, and we expect each of them to buy 2x $5 drinks -- $1000 net from door, $1000 net at bar`
 
+* Contractors (e.g., promo should be informed of the compensation structure including how/when/what they're getting paid)
 * Establish a concrete plan for ticket sales
 * Have a working event concept (not necessarily a final theme, but definitely some idea) and begin working on promotional materials
 * Construct a vague plan for promotion
